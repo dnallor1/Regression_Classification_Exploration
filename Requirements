@@ -1,0 +1,5 @@
+numpy==1.21.5
+scikit-learn==1.0.2
+wandb==0.14.0
+matplotlib==3.5.1
+joblib==1.2.0
