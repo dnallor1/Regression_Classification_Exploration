@@ -7,17 +7,6 @@ This project uses [Weights and Biases (WandB)](https://wandb.ai) for tracking ex
 
 - **Project Dashboard**: [View the WandB project here](https://wandb.ai/theodorerolland-poznan-university-of-technology)
 - **API Key for Login**:  34dcabe3be76bcc128386ecc33cd934d9930c544
-
-# Regression_Classification_Exploration
-
-A Python project for exploring regression and classification tasks using neural networks with metrics tracking via WandB.
-
----
-
-## WandB Integration
-
-This project uses [Weights and Biases (WandB)](https://wandb.ai/theodorerolland-poznan-university-of-technology) for tracking experiments and logging metrics.
-
 - **Project Overview**: [View the WandB project dashboard](https://wandb.ai/theodorerolland-poznan-university-of-technology/regression_classification_exploration?nw=nwusertheodorerolland)
 - **Specific Run Details**: [View a sample run here](https://wandb.ai/theodorerolland-poznan-university-of-technology/regression_classification_exploration/runs/c4p8dkzx?nw=nwusertheodorerolland)
 
